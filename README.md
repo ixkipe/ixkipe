@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @ixkipe. I'm a wannabe .NET/C# developer.
