@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ixkipe. I'm a wannabe .NET/C# developer.
+- 👋 Hi, I’m @ixkipe. I'm a .NET/C# developer.
